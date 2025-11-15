@@ -1,0 +1,5 @@
+{
+  "name": "Creator Sniffer",
+  "description": "En app som låter dig djupsöka på en Patreon-kreatörs namn för att hitta deras verk som finns gratis tillgängligt på olika platser på internet, som Reddit och andra publika plattformar.",
+  "requestFramePermissions": []
+}
